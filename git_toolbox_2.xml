@@ -1,0 +1,11 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="blameInlayConfig">
+      <InlayBlameConfig>
+        <option name="location" value="ABOVE" />
+        <option name="shortenToFitViewport" value="true" />
+      </InlayBlameConfig>
+    </option>
+    <option name="showEditorInlineBlame" value="false" />
+  </component>
+</application>

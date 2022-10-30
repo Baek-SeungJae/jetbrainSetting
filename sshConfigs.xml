@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="dgw02.nhnsystem.com" id="baf60b92-a628-40a7-be91-244182efeaf6" port="22" nameFormat="DESCRIPTIVE" username="baekseungjae" />
+    </configs>
+  </component>
+</application>
