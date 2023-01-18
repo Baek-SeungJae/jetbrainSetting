@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
-    <mask>*.ftl</mask>
     <mask>*.filter</mask>
     <mask>*.properties</mask>
     <mask>*.css</mask>
@@ -12,5 +11,6 @@
     <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>
