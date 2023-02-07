@@ -41,6 +41,12 @@
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="QUERY_EL_COMMA" value="1" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
+    <option name="SELECT_EL_COMMA" value="1" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="FROM_PLACE_ON" value="10" />
     <option name="CORTEGE_SPACE_WITHIN_PARENTHESES" value="true" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_END" value="1" />
