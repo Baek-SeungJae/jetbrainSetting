@@ -32,8 +32,18 @@
     <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
   </JavaCodeStyleSettings>
   <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="BUILT_IN_CASE" value="2" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="QUERY_EL_COMMA" value="1" />
+    <option name="QUERY_IN_ONE_STRING" value="0" />
+    <option name="CORTEGE_SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
+    <option name="EXPR_CASE_END" value="1" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="240" />
