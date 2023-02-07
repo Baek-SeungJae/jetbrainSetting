@@ -41,6 +41,9 @@
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="QUERY_EL_COMMA" value="1" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="SET_EL_COMMA" value="1" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
     <option name="SELECT_EL_COMMA" value="1" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
