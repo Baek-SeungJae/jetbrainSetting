@@ -7,10 +7,10 @@
     <mask>*.filter</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.ftl</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.ftl</mask>
   </component>
 </application>
