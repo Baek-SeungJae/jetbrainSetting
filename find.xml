@@ -5,12 +5,12 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.filter</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.ftl</mask>
     <mask>*.java</mask>
+    <mask>*.css</mask>
   </component>
 </application>
